@@ -12,8 +12,8 @@ The primary objective is to create a predictive model that can estimate the ener
 Deliverables:
 
 1. A well-documented regression model that accurately predicts appliance energy consumption.
-2.An analysis of the most influential factors affecting energy consumption within a household.
-3.Recommendations for optimizing energy usage based on the model's insights.
+2. An analysis of the most influential factors affecting energy consumption within a household.
+3. Recommendations for optimizing energy usage based on the model's insights.
 
 Success Criteria:
 The success of the project will be evaluated based on the model's accuracy in predicting appliance energy consumption. Additionally, the project's success will be determined by the identification of key factors that significantly impact energy usage and the provision of actionable insights for homeowners to reduce energy consumption effectively.
