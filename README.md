@@ -42,7 +42,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 Contributions are welcome. Please fork the repository and create a pull request for any suggested changes or improvements.
 
 ## Project File
-Access the Jupyter Notebook (.ipynb) file for this project on [Kaggle](https://www.kaggle.com/code/thethirdchapter/classification-credit-card-default-prediction).
+Access the Jupyter Notebook (.ipynb) file for this project on [Kaggle](https://www.kaggle.com/code/thethirdchapter/regression-appliance-energy-prediction).
 
 ## Contact
 For any questions or suggestions, feel free to contact the project maintainer at bishtdeepak8469@gmail.com.
